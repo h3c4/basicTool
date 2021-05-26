@@ -7,6 +7,7 @@ import time
 import signal
 import pyqrcode
 
+#By:H3C4
 
 def handler(signum, frame):
     print("Exit..")
