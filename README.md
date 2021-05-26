@@ -14,7 +14,9 @@ git clone https://github.com/h3c4/basicTool.git
 ```
 
 1) cd basicTool
-2) python3 basicTool.py (option) 
+2) pip install pyqrcode
+3) pip install pypng
+4) python3 basicTool.py (option) 
 
 ```
 #### Set the option 1,2 or 3
